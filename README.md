@@ -16,3 +16,6 @@ That's it! If this doesn't work for you, please visit the excellent resources fr
 If you can't find your answers there, feel free to ask us via Twitter (@cloud9ide), [mailing list](groups.google.com/group/cloud9-ide) or IRC (#cloud9ide on freenode).
 
 Happy coding!
+
+The object of this project is to graphically represent a non-mobile robotic arm to design its control system, find rotational coordinates, and have fun.
+The robotic arm can consist of rotational joints and extendable lengths. Each actuator is connected with lengths of arm, even if that length is 0.
